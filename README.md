@@ -4,15 +4,15 @@
 ## What is an expression in JavaScript again?
 * A piece of code that results in a single value (like a variable or function call (aka invokation))
 
+# Example
+* See index.js
+
 ## Git Branches
 * main
 * 01-regex 
 * 02-ternary-operator
 * 03-compted-prop-names (now)
 * 03-spread-syntax (next)
-
-# Example
-* See index.js
 
 ## Topics for Review Today
 * Regular expressions 
@@ -26,5 +26,5 @@
 * MVC & Flux Architectures
 * React Redux Form & Validation
 
-## Resources
-* [mdn docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+## Resource
+* [more info on JS computed properties](https://medium.com/dailyjs/how-to-use-javascript-computed-properties-8f6f096379e3)
