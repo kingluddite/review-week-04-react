@@ -1,27 +1,10 @@
-# React Final Form
-* PROS
-  * no need to install redux
-  * developer created this after he created redux form (next evolution)
-  * very powerful
-  * very similar to redux
-  * lightweight
+# MVC & Redux
+## MVC
+https://i.imgur.com/CTNPzCL.png
 
-## When to use
-* when your components become too cumbersome
-* when you need good validation support
-* check out subscriptions
+* [mvc bar analogy](https://blog.codeanalogies.com/2016/05/02/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar/)
 
-## Other 3rd party form tools
-* [Formik](https://formik.org/)
-* [React Hook Form](https://react-hook-form.com/)
-
-## Recommendation
-* [Use Final Form](https://openbase.com/js/react-final-form)
-## Four ways to deal with Forms in react
-1. Native HTML-like form
-2. Controlled form 
-3. Redux Form 
-4. Final Form (now)
+* [mvc html css browser analogy](https://medium.com/@blakeschlin/what-the-f-k-is-mvc-explained-with-real-world-analogy-e088a9a8b787)
 
 ## Git Branches
 * main
@@ -32,7 +15,8 @@
 * 05-native-forms-in-react 
 * 06-controlled-forms
 * 07-redux-form 
-* 08-final-form (now)
+* 08-final-form
+* 09-mvc-redux (now)
 
 ## Topics for Review Today
 * Regular expressions 
