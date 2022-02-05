@@ -3,8 +3,11 @@
 
 `$ npx create-react-app@5.0.0 .`
 
-### Example
-* See EXAMPLE1 in index.js
+## Four ways to deal with Forms in react
+1. Native HTML-like form
+2. Controlled form
+3. Redux Form
+4. Final Form
 
 ## Git Branches
 * main
@@ -12,8 +15,10 @@
 * 02-ternary-operator
 * 03-compted-prop-names 
 * 04-spread-syntax 
-* 05-controlled-forms (now)
-* 06-binding-event-handler (next)
+* 05-native-forms-in-react (now)
+* 06-controlled-forms (next)
+* 07-redux-forms
+* 08-final-form
 
 ## Topics for Review Today
 * Regular expressions 
