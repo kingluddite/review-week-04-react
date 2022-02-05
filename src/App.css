@@ -1,0 +1,16 @@
+.input-text {
+  margin-bottom: 12px;
+}
+
+.input-text .error-message {
+  color: #d64541;
+  font-size: 80%;
+}
+
+input[type='text'] {
+  display: block;
+  width: 90%;
+  padding: 10px;
+  border-radius: 3px;
+  border: 1px solid grey;
+}

@@ -1,12 +1,10 @@
 # Controlled Forms (Now a react app)
-* How to create a create react app inside the current folder?
-
-`$ npx create-react-app@5.0.0 .`
+* We need to deal with state so we need to convert our functional component into a class based component 
 
 ## Four ways to deal with Forms in react
 1. Native HTML-like form
-2. Controlled form
-3. Redux Form
+2. Controlled form (now)
+3. Redux Form (next)
 4. Final Form
 
 ## Git Branches
@@ -15,9 +13,9 @@
 * 02-ternary-operator
 * 03-compted-prop-names 
 * 04-spread-syntax 
-* 05-native-forms-in-react (now)
-* 06-controlled-forms (next)
-* 07-redux-forms
+* 05-native-forms-in-react 
+* 06-controlled-forms (now)
+* 07-redux-forms (next)
 * 08-final-form
 
 ## Topics for Review Today
@@ -33,4 +31,4 @@
 * React Redux Form & Validation
 
 ## Resource
-* 
+* [ref](https://www.youtube.com/watch?v=3BZZg3lS2SA)

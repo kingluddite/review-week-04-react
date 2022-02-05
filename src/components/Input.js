@@ -3,7 +3,7 @@ import React from 'react'
 const Input = ({ errorMessage, ...props }) => (
   <div className='input-text'>
     <input {...props} />
-    {errorMessage && <span className='errorMessage'>{errorMessage}</span>}
+    {errorMessage && <span className='error-message'>{errorMessage}</span>}
   </div>
 )
 
